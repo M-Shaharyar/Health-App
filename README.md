@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gemini-health-app.git
+   git clone https://github.com/M-Shaharyar/Health-App.git
    cd gemini-health-app
    ```
 2. **Create a virtual environment**
